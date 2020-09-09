@@ -17,7 +17,7 @@ This project is made in order to store and manage the Contact information of var
 
 # Technical details
 
-## Tech Stack
+## Concept Stack
 The technologies used to develop this web applications are 
 * C++
 * Object Oriented Programming Concepts
